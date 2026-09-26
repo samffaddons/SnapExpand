@@ -21,3 +21,4 @@ Cursor placeholder — put {|} in a replacement to land the cursor mid-text (e.g
 Optional clipboard copy — global default or per-snippet override.
  
  
+## Developed By Sam using Anthropic's Claude AI.
