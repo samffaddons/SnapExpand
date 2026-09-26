@@ -22,3 +22,7 @@ Optional clipboard copy — global default or per-snippet override.
  
  
 ## Developed By Sam using Anthropic's Claude AI.
+
+
+
+![Alt text](Screenshots/snapexpand-demo.gif)
